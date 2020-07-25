@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Threading.Tasks;
-using IRCgirld.API;
+using IRCgirl.API;
 
-namespace IRCgirld.Services
+namespace IRCgirl.Services
 {
 	public class TextLogService : IService
 	{

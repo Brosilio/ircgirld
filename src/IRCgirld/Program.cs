@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Net;
-using System.Threading.Tasks;
 
-namespace IRCgirld
+namespace IRCgirl
 {
 	class Program
 	{

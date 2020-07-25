@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace IRCgirld.Exceptions
+namespace IRCgirl.Exceptions
 {
 	[Serializable]
 	internal class ServiceNotFoundException : Exception

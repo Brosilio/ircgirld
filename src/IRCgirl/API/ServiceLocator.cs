@@ -1,8 +1,9 @@
-﻿using System;
+﻿using IRCgirl.Exceptions;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace IRCgirld.API
+namespace IRCgirl.API
 {
 	public class ServiceLocator
 	{
