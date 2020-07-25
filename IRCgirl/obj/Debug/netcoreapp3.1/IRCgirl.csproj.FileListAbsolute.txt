@@ -1,0 +1,13 @@
+D:\source\repos\IRCgirl\IRCgirl\bin\Debug\netcoreapp3.1\IRCgirl.exe
+D:\source\repos\IRCgirl\IRCgirl\bin\Debug\netcoreapp3.1\IRCgirl.deps.json
+D:\source\repos\IRCgirl\IRCgirl\bin\Debug\netcoreapp3.1\IRCgirl.runtimeconfig.json
+D:\source\repos\IRCgirl\IRCgirl\bin\Debug\netcoreapp3.1\IRCgirl.runtimeconfig.dev.json
+D:\source\repos\IRCgirl\IRCgirl\bin\Debug\netcoreapp3.1\IRCgirl.dll
+D:\source\repos\IRCgirl\IRCgirl\bin\Debug\netcoreapp3.1\IRCgirl.pdb
+D:\source\repos\IRCgirl\IRCgirl\obj\Debug\netcoreapp3.1\IRCgirl.csprojAssemblyReference.cache
+D:\source\repos\IRCgirl\IRCgirl\obj\Debug\netcoreapp3.1\IRCgirl.AssemblyInfoInputs.cache
+D:\source\repos\IRCgirl\IRCgirl\obj\Debug\netcoreapp3.1\IRCgirl.AssemblyInfo.cs
+D:\source\repos\IRCgirl\IRCgirl\obj\Debug\netcoreapp3.1\IRCgirl.csproj.CoreCompileInputs.cache
+D:\source\repos\IRCgirl\IRCgirl\obj\Debug\netcoreapp3.1\IRCgirl.dll
+D:\source\repos\IRCgirl\IRCgirl\obj\Debug\netcoreapp3.1\IRCgirl.pdb
+D:\source\repos\IRCgirl\IRCgirl\obj\Debug\netcoreapp3.1\IRCgirl.genruntimeconfig.cache
