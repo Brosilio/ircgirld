@@ -1,0 +1,3 @@
+[submodule "lib/libircgirl"]
+	path = lib/libircgirl
+	url = https://github.com/brosilio/libircgirl
