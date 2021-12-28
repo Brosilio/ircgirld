@@ -1,3 +1,8 @@
 this project is incomplete and doesn't work yet.
-# IRCgirld
-IRCgirld is a cross-platform, idiot-compatible, C# & .NET Core IRC server.
+# ircgirld
+ircgirld is a cross-platform, high performance, easy to configure IRC server.
+
+## Features
+- SSL autonegotiation
+- Latest TLS protocols supported
+- todo: the rest of this list
